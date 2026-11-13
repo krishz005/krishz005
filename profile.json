@@ -1,0 +1,21 @@
+{
+  "username": "krishz005",
+  "name": "Krish",
+  "tagline": "Building thoughtful experiences for the web.",
+  "font_file": "/usr/share/fonts/truetype/lato/Lato-Bold.ttf",
+  "portrait": "",
+  "colors": {
+    "background": "#0B1020",
+    "panel": "#131C34",
+    "text": "#F4F7FF",
+    "muted": "#A9B4D0",
+    "accent": "#A78BFA",
+    "secondary": "#67E8F9"
+  },
+  "tiles": [
+    {"icon": "◉", "title": "GitHub", "subtitle": "Explore my code", "url": "https://github.com/krishz005"},
+    {"icon": "↗", "title": "Portfolio", "subtitle": "Projects and work", "url": "https://github.com/krishz005?tab=repositories"},
+    {"icon": "✉", "title": "Connect", "subtitle": "Say hello", "url": "https://github.com/krishz005"}
+  ],
+  "featured_repos": []
+}

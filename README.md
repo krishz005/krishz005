@@ -1,16 +1,17 @@
-## Hi there 👋
+<div align="center">
+  <img src="cards/hero.svg" width="100%" alt="Krish — software developer" />
+</div>
 
-<!--
-**krishz005/krishz005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://github.com/krishz005"><img src="cards/tile-1.svg" width="32.5%" alt="Explore GitHub" /></a>
+  <a href="https://github.com/krishz005?tab=repositories"><img src="cards/tile-2.svg" width="32.5%" alt="Portfolio projects" /></a>
+  <a href="https://github.com/krishz005"><img src="cards/tile-3.svg" width="32.5%" alt="Connect" /></a>
+</p>
 
-Here are some ideas to get you started:
+<img src="cards/monthly.svg" width="100%" alt="Monthly contribution counts, current streak, active days and busiest day" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- FEATURED REPOS START -->
+
+<!-- FEATURED REPOS END -->
+
+<img src="cards/graph.svg" width="100%" alt="GitHub contribution heatmap over the last 53 weeks" />
